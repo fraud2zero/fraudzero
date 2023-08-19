@@ -2,8 +2,8 @@
 The purposes of this project are: 
 1. *Fool me once, shame on you. Fool me twice, shame on me.*
 
-   We have to stop relying on _customers_ to find all fraud, that's ridiculous and *isn't happening*, I'm sure my mom doesn't read her bank statement that closely. The zero fraud goal is acknowleged to be aspirational. We may not be able to catch every fraudulent transaction, but we can make it much, much harder. *Perfection is the enemy of the good and the great.*
-3. At this point, the industry has to start pooling resources the same way the fraudsters do in the dark web. So we need a central place to meet and store fraud detection recipes and data.
+   We have to stop relying on _customers_ to find all fraud, that's ridiculous and *isn't happening*, I'm sure my mom doesn't read her bank statement that closely, *nor should she at 86*. The zero fraud is acknowleged to be aspirational, but *if you don't try, you can never succeed* either. We may not be able to catch every fraudulent transaction, but we can make it much, much harder for it to continue. *Perfection is the enemy of the good and the great.*
+3. At this point, the industry has to start pooling resources the same way the fraudsters do in the dark web. So we need a central place to meet and store fraud detection recipes and data. Small banks should have the same defenses as large banks, because the small banks aren't the enemy, the fraud is the enemy. 
 4. Every bank and bank-like object (PayPal Venmo, etc.) shouldn't have to re-discover the hard way which transactions are fraud. There should be a common pool from which to draw. We should hate the *fraudsters* more than we hate our *competitors*. 
 
    ## Inspiration
