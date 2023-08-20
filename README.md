@@ -91,7 +91,10 @@ The purposes of this project are:
        Pierce Trowbridge Wetter III
        Springfield, OR
 
-       8/19/2023, 9:18pm.
+       **Launch Date**: 8/19/2023, 9:18pm.
+       **Last Revision Date**: 8/20/2023
+       
+       **Reddit Sub**: [here](https://www.reddit.com/r/FraudPrevention)
        
        
 
