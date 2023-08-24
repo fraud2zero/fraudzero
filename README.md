@@ -58,41 +58,42 @@ The purposes of this project are:
     
        ### Funding
        Basically, there's me, my passion/Don Quixoteness, my anger at the fraud, and my extreme spare time during my recovery from brain surgery. I might setup a GoFundMe or something else when the project is further along and maybe something where you can report fraud in addition to your bank and we can distill it into the project for some kind of nominal fee like $10 to pay the reviewers because *software engineers don't fix bugs, they fix bug reports*, but that's a long way off and a difficult problem. See [Context](#Context)
-    
+
        Or hey, maybe one of these corporations will see my work and chip in to some kind of foundation. We'll see, all I have is a readme so far, and I'd rather code than talk to a lawyer about setting up a foundation.  
-    
+
        #### <a name="Context"></a> Context
+
        So... on 5/31/2023 I fell and hit my forehead on the soap dish in the bathtub, knocking myself unconscious. My wife called 911. Firemen came, couldn't rouse me either, bustled me off to the local hospital *Sacred Heart*.
-       
+
        *Sacred Heart* does a CT scan because I hit my head hard enough to bleed and scar, discovers a brain tumor the size of a tennis ball at 6cm x 6.4cm x 7cm. *There's your problem* I picture them saying. They toss me on a helicopter, where I finally wake up, annoyed that **someone is bothering me when I'm trying to sleep**. The nice LifeFlight people explain I'm going to Portland, it will take about 20 minutes, relax. I fall back to sleep, don't get to enjoy the helicopter ride to OHSU (Oregon Health and Science University Hospital in Portland). I plan on asking if I can do a ride along later, but I can't drive right now.
-       
+
        At OHSU, they do a crani-something or other that night to prep for removing the tennis ball on 6/3. On 6/3/2023 they remove the tennis ball. I now have 2 gold plates, 20 titaniam screws and 2 "bushings" in my head. I haven't tested this, but I bet I set off the scanners at the airport so its a patdown for me every time for now on. 
-       
+
        Lest you feel sorry for me, realize that this is all a *bad at the time but in retrospect saved my life* set of circumstances so far. The other way to detect a brain tumor is you die...so while embarrasing, embarrassment is better than dying, so I'm good with it. I think everyone on the planet would choose embarrassment over you know *dying*.
-    
+
        By the way, total plug here for a startup called [Ezra](https://ezra.com) that will give you a full body MRI for $1950. Your health insurance won't pay for it, because health insurance would rather pay $20,000 for you to get a colonoscopy every year than pay $1950 to prevent you having a $200,000 bill because *insurance companies are stupid*. But I digress and you knew that insurance companies are stupid...but I want you to get an MRI...
-       
+
        For various reasons relating to my wifes dementia so she's in Palm Springs while I'm in Portland, even though the hospital is ready for me to go home, I'm trapped in the hospital for 40 days because I'm hella goofy, have hallucinations, and basically need 24 hours supervision. My brain tumor was benign, it was the kind that presses in from the outside, so it was the best kind of brain tumor to have, if you have to have a brain tumor. My brain is bascially unsquishing like one of those sponges that comes all squished down, you add water and it turns into a dinosaur... 
-       
+
        Took about 2 weeks for the hallucinations to stop, though I still get them occasionally. After about 30 days I'm mostly rational and I begin my plan to escape the hospital. Mostly, things I thought I lost to old age like my sense of smell, sense of touch and libido are coming back. So moral of the story, [*get an Ezra scan*](https://ezra.com), and its much better *having had* a brain tumor than *having* a brain tumor, past tense is everything. When you *have* a brain tumor, you know something is wrong, but you don't know what to do about it, because *your brain isn't working*.
-    
+
        Now, post brain tumor, positive outlook for the future for me, I feel more in control of my life than I have in years, and I'm alive. My relationship with my wife is better than ever, it had gotten pretty bad when Dementia Gal and Tumor Lad were cavorting in our new Oregon house and the dogs had fleas, but I realized in the hospital that all my built up resentment was because *neither of our brains were working*. So we have phone dates twice/week on Facetime; its not so bad, we had a long distance relationship for 6 months when we first met, she lived in LA I lived in Silicon valley and we would meet in Morro Bay for romantic interludes at the campsite there. 
 
        #### Extreme Spare Time
-       Yeah, so doctors say its 12 months before I reach complete recovery. I can only play so much Zelda and Quest 2. I can't drive. The doctors say I could after 4 weeks, but I say no, because I keep finding random injuries on my body, I'm not going to get in a 2,000 pound vehicle and go tootling around. So what to do, what to do.
+       Yeah, so doctors say its 12 months before I reach complete recovery. I can only play so much Zelda and Quest 2. I can't drive. The doctors say I could after 4 weeks, but I say no, because I keep finding random injuries on my body, I'm not going to get in a 2,000 pound vehicle and go tootling around when I'm having problems walking around my house. So what to do, what to do.
        
-       My first thought was removing the mediocrity and uselessness of the USNWR college rankings. No one actually uses them to choose their child's college, and they have numerous flaws the most obvious being that its entirely subjective and "cooked" so the same few colleges come out on top, though the worst sin is the latency: colleges are completely unmotivated to improve anything because it takes 4 years for anyone to notice. They could hire Jesus Christ as a professor, no one would notice for at least 4 years. I looked into how college rankings are done as an old project of mine from when I worked at [Chegg](https://www.chegg.com) the textbook rental service. I had to bow out of that at the time because of busyness but for awhile it was a personal passion.
+       My first thought was removing the mediocrity and uselessness of the USNWR college rankings. No one actually uses them to choose their child's college, and they have numerous flaws the most obvious being that its entirely subjective and "cooked" so the same few colleges come out on top, though the worst sin is the latency: colleges are completely unmotivated to improve anything because it takes 4 years for anyone to notice. They could hire Jesus Christ as a professor, no one would notice for at least 4 years. I looked into how college rankings are done as an old project of mine from when I worked at [Chegg](https://www.chegg.com) the textbook rental service. I had to bow out of that at the time because of busyness but for awhile it was a personal passion, driven by *love*.
        
-       We could/can do better. I wrote up a pitch, reached out to contacts at Chegg, no joy they're worried about other things. That's unfortunate, because my approach for measuring academic excellence requires textbook sales or rental as an input, if we don't do it now, it will be delayed for another academic year if it gets done at all. I suppose I could reach out to Amazon, but I don't have enough contacts there, so its not gonna happen. Plus full disclosure, I spent so much time thinking of Amazon as the *enemy* when I worked at Chegg that I find it hard to motivate myself to reach out blindly. 
+       We could/can do better. I wrote up a pitch, reached out to contacts at Chegg, no joy they're worried about other things. That's unfortunate, because my approach for measuring academic excellence requires textbook sales or rental as an input, if we don't do it now, it will be delayed for another academic year if it gets done at all. I suppose I could reach out to Amazon, but I don't have enough contacts there, so it's not gonna happen. Plus full disclosure, I spent so much time thinking of Amazon as the *enemy* when I worked at Chegg that I find it hard to motivate myself to reach out blindly. 
        
-       Then I discovered the fraud in my account, and it pissed me off. No, it didn't piss me off it *enraged* me. *Bogus Netflix charges shouldn't exist.* Telling me that Chase would only refund 3 months of them further annoyed me. So I set out to do something about it. This is what I'm doing, *be the change you want to see in the world* and all that.
+       Then I discovered the fraud in my account, and it pissed me off. No, it didn't piss me off it *enraged* me. *Bogus Netflix charges shouldn't exist.* Telling me that Chase would only refund 3 months of them further annoyed me. So I set out to do something about it. This is what I'm doing, *be the change you want to see in the world* and all that. Though now the personal passion is driven by *hate*.
 
 
        Pierce Trowbridge Wetter III
        Springfield, OR
 
        **Launch Date**: 8/19/2023, 9:18pm.
-       **Last Revision Date**: 8/20/2023
+       **Last Revision Date**: 8/24/2023
        
        **Reddit Sub**: [here](https://www.reddit.com/r/FraudPrevention)
        

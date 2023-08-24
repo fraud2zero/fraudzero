@@ -1,0 +1,1 @@
+* FraudFinder.py -- Command line program to scan a transaction file downloaded from Chase, finds fraud and generates a report. Should be adaptable to other banks by using a different column mapping file. 
